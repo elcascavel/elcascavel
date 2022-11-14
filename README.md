@@ -1,6 +1,6 @@
 Hey 👋, Simão Amaral here!
 =============================
-I'm currently on my third year of bachelor's in Communication and Multimedia @ UTAD in Portugal. It covers a plethora of topics but I found a passion in web development. I am interested in game development and reverse engineering. I've only programmed a little Snake clone with C++ however. The rest of my projects are web dev related.
+I'm currently on my third year of bachelor's in Communication and Multimedia @ UTAD in Portugal. It covers a plethora of topics but I found a passion in web development. I am also interested in game development and reverse engineering. I've only programmed a little Snake clone with C++ however. The rest of my projects are web dev related.
 * 🖥️  See my portfolio on [my website.](http://elcascavel.me/)
 * 🧠  I'm learning React, Vue and Laravel.
 
