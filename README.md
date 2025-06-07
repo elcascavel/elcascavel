@@ -1,9 +1,6 @@
-Hey 👋, Simão Amaral here!
-=============================
-I have finished my bachelor's in Communication and Multimedia @ UTAD in Portugal. It covers a plethora of topics but I found a passion in web development.
-
-https://samaral.dev/
-
-[![Simão's Github Stats](https://github-readme-stats.vercel.app/api?username=elcascavel&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcascavel&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://samaral.dev" target="_blank">
+<div align="center">
+<img src="assets/cascavel.png" alt="elcascavel himself" width="310"/>
+<img src="https://github-readme-stats.vercel.app/api?username=elcascavel&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&show=prs_merged&bg_color=0000000&card_width=400&show_icons=true&icon_color=BD93F9"/>
+</div>
+</a>
